@@ -1,0 +1,12 @@
+Terraform Workshop
+
+1)First install awscli and terraform by following these documents based on your Operating Systems
+For awscli:-
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+For terraform:-
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+For Windows users in order to install terraform chocolatey package might be needed. Follow the link below to find out how to install chocolatey:-
+https://chocolatey.org/install
+
