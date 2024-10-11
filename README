@@ -4,7 +4,7 @@ Terraform Workshop
 For awscli:-
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-Once AWSCLI is installed then you have to configure the AWS ACCESS KEY ID and the AWS SECRET KEY which can be found within the AWS Account that you have from the college.
+Once AWSCLI is installed then you have to configure the AWS ACCESS KEY ID and the AWS SECRET KEY which can be found within the Presentation slides. This can be done using the aws configure command.
 
 For terraform:-
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
