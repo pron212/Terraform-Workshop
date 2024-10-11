@@ -4,9 +4,20 @@ Terraform Workshop
 For awscli:-
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
+Once AWSCLI is installed then you have to configure the AWS ACCESS KEY ID and the AWS SECRET KEY which can be found within the AWS Account that you have from the college.
+
 For terraform:-
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 For Windows users in order to install terraform chocolatey package might be needed. Follow the link below to find out how to install chocolatey:-
 https://chocolatey.org/install
 
+2) Clone the repository using the git clone command
+
+3) Once the terraform is installed and aws is configured. Then run the terraform init command within this directory to pull the packages related to deployment.
+
+4)Then run terraform validate to ensure that the code is valid in terms of syntax.
+
+5)Then run terraform apply to create the needed resources within
+
+Note:- S3 Buckets within AWS might not be created by terraform script due to the limits set by the College for cost reasons.
