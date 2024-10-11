@@ -21,3 +21,6 @@ https://chocolatey.org/install
 5)Then run terraform apply to create the needed resources within
 
 Note:- S3 Buckets within AWS might not be created by terraform script due to the limits set by the College for cost reasons.
+
+
+Created by Sahil and Edvardas
