@@ -16,7 +16,7 @@ https://chocolatey.org/install
 
 3) Once the terraform is installed and aws is configured. Then run the terraform init command within this directory to pull the packages related to deployment.
 
-4)Then run terraform validate to ensure that the code is valid in terms of syntax.
+4)Then run terraform validate to ensure that the code is valid in terms of syntax. After running this run terraform plan which will basically preview all the changes without executing the script
 
 5)Then run terraform apply to create the needed resources within
 
