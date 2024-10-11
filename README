@@ -12,6 +12,8 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 For Windows users in order to install terraform chocolatey package might be needed. Follow the link below to find out how to install chocolatey:-
 https://chocolatey.org/install
 
+Run ssh-keygen -t rsa in order to create an ssh key within your terminal
+
 2) Clone the repository using the git clone command
 
 3) Once the terraform is installed and aws is configured. Then run the terraform init command within this directory to pull the packages related to deployment.
